@@ -97,7 +97,7 @@
 <meta property="og:url" content="http://yoursite.com/2017/05/18/hexo新建文章加标签/index.html">
 <meta property="og:site_name" content="土拔鼠饲养员">
 <meta property="og:description" content="hexo next主题 新建文章加标签的方法">
-<meta property="og:updated_time" content="2017-05-18T13:52:16.575Z">
+<meta property="og:updated_time" content="2017-05-18T13:54:13.333Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="hexo next主题 新建文章加标签">
 <meta name="twitter:description" content="hexo next主题 新建文章加标签的方法">
@@ -200,7 +200,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
             
-            Startseite
+            Accueil
           </a>
         </li>
       
@@ -210,7 +210,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
             
-            Archiv
+            Archives
           </a>
         </li>
       
@@ -280,7 +280,7 @@
                 <i class="fa fa-calendar-o"></i>
               </span>
               
-                <span class="post-meta-item-text">Veröffentlicht am</span>
+                <span class="post-meta-item-text">Posté le</span>
               
               <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-05-18T21:33:14+08:00">
                 2017-05-18
@@ -301,7 +301,7 @@
                 <i class="fa fa-folder-o"></i>
               </span>
               
-                <span class="post-meta-item-text">in</span>
+                <span class="post-meta-item-text">In</span>
               
               
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
@@ -346,10 +346,10 @@
         <p>###生成标签配置</p>
 <ol>
 <li>执行以下命令，会生成~/hexo/source/tags/index.md文件<br> cd ~/hexo<br> hexo new page tags</li>
-<li><h2 id="编辑index-md，内容如下："><a href="#编辑index-md，内容如下：" class="headerlink" title="编辑index.md，内容如下："></a>编辑index.md，内容如下：</h2> title: tags<br> date: 2017-05-18 21:46:21<h2 id="type-“tags”"><a href="#type-“tags”" class="headerlink" title=" type: “tags”"></a> type: “tags”</h2></li>
-<li>在hexo文章中编辑时加入categories和tags，hexo会自动生成标签。<h2 id="示例："><a href="#示例：" class="headerlink" title="示例："></a>示例：</h2> title: hexo新建文章加标签<br> date: 5/18/2017 9:33:14 PM<br> categories: “Hexo教程”<br> tags:<pre><code>- Hexo
+<li>编辑index.md，内容如下：<br> ---<br> title: tags<br> date: 2017-05-18 21:46:21<br> type: “tags”<br> ---</li>
+<li>在hexo文章中编辑时加入categories和tags，hexo会自动生成标签。<br>示例：<br> ---<br> title: hexo新建文章加标签<br> date: 5/18/2017 9:33:14 PM<br> categories: “Hexo教程”<br> tags:<pre><code>- Hexo
 - 标签
-</code></pre><h2 id="description-hexo新建文章加标签的方法"><a href="#description-hexo新建文章加标签的方法" class="headerlink" title=" description: hexo新建文章加标签的方法"></a> description: hexo新建文章加标签的方法</h2></li>
+</code></pre> description: hexo新建文章加标签的方法<br> ---</li>
 </ol>
 
       
@@ -448,17 +448,8 @@
       
 
       
-        <ul class="sidebar-nav motion-element">
-          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
-            Inhaltsverzeichnis
-          </li>
-          <li class="sidebar-nav-overview" data-target="site-overview">
-            Übersicht
-          </li>
-        </ul>
-      
 
-      <section class="site-overview sidebar-panel">
+      <section class="site-overview sidebar-panel sidebar-panel-active">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
                src="/images/avatar.gif"
@@ -474,7 +465,7 @@
             <div class="site-state-item site-state-posts">
               <a href="/archives">
                 <span class="site-state-item-count">9</span>
-                <span class="site-state-item-name">Artikel</span>
+                <span class="site-state-item-name">articles</span>
               </a>
             </div>
           
@@ -485,7 +476,7 @@
             <div class="site-state-item site-state-categories">
               
                 <span class="site-state-item-count">1</span>
-                <span class="site-state-item-name">Kategorien</span>
+                <span class="site-state-item-name">categories</span>
               
             </div>
           
@@ -496,7 +487,7 @@
             <div class="site-state-item site-state-tags">
               <a href="/tags/index.html">
                 <span class="site-state-item-count">1</span>
-                <span class="site-state-item-name">Tags</span>
+                <span class="site-state-item-name">tags</span>
               </a>
             </div>
           
@@ -532,22 +523,6 @@
       </section>
 
       
-      <!--noindex-->
-        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
-          <div class="post-toc">
-
-            
-              
-            
-
-            
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#编辑index-md，内容如下："><span class="nav-number">1.</span> <span class="nav-text">编辑index.md，内容如下：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#type-“tags”"><span class="nav-number">2.</span> <span class="nav-text"> type: “tags”</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#示例："><span class="nav-number">3.</span> <span class="nav-text">示例：</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#description-hexo新建文章加标签的方法"><span class="nav-number">4.</span> <span class="nav-text"> description: hexo新建文章加标签的方法</span></a></li></ol></div>
-            
-
-          </div>
-        </section>
-      <!--/noindex-->
-      
 
       
 
@@ -573,11 +548,11 @@
 
 
 <div class="powered-by">
-  Erstellt mit  <a class="theme-link" href="https://hexo.io">Hexo</a>
+  Powered by <a class="theme-link" href="https://hexo.io">Hexo</a>
 </div>
 
 <div class="theme-info">
-  Theme -
+  Thème -
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
     NexT.Pisces
   </a>
