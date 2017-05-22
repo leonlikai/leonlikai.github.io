@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>土拔鼠饲养员</title>
+  <subtitle>大道至简 知易行难</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-05-22T13:31:18.351Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>leon</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图片测试</title>
+    <link href="http://yoursite.com/2017/05/22/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2017/05/22/图片测试/</id>
+    <published>2017-05-22T13:31:18.283Z</published>
+    <updated>2017-05-22T13:31:18.351Z</updated>
+    
+    <content type="html"><![CDATA[<p>正文中插入图片</p>
+<p><img src="http://bbs.sjtu.edu.cn/file/PPPerson/149504151020200.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;正文中插入图片&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://bbs.sjtu.edu.cn/file/PPPerson/149504151020200.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo next主题 新建文章加标签</title>
+    <link href="http://yoursite.com/2017/05/18/hexo%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0%E5%8A%A0%E6%A0%87%E7%AD%BE/"/>
+    <id>http://yoursite.com/2017/05/18/hexo新建文章加标签/</id>
+    <published>2017-05-18T13:33:14.000Z</published>
+    <updated>2017-05-18T13:54:13.333Z</updated>
+    
+    <content type="html"><![CDATA[<p>###生成标签配置</p>
+<ol>
+<li>执行以下命令，会生成~/hexo/source/tags/index.md文件<br> cd ~/hexo<br> hexo new page tags</li>
+<li>编辑index.md，内容如下：<br> ---<br> title: tags<br> date: 2017-05-18 21:46:21<br> type: “tags”<br> ---</li>
+<li>在hexo文章中编辑时加入categories和tags，hexo会自动生成标签。<br>示例：<br> ---<br> title: hexo新建文章加标签<br> date: 5/18/2017 9:33:14 PM<br> categories: “Hexo教程”<br> tags:<pre><code>- Hexo
+- 标签
+</code></pre> description: hexo新建文章加标签的方法<br> ---</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      hexo next主题 新建文章加标签的方法
+    
+    </summary>
+    
+      <category term="Hexo教程" scheme="http://yoursite.com/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>习惯多重要~</title>
+    <link href="http://yoursite.com/2017/05/14/%E4%B9%A0%E6%83%AF%E5%A4%9A%E9%87%8D%E8%A6%81/"/>
+    <id>http://yoursite.com/2017/05/14/习惯多重要/</id>
+    <published>2017-05-14T13:35:31.399Z</published>
+    <updated>2017-05-14T13:35:31.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>习惯多重要~要不然也不会一天无所事事了oo</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;习惯多重要~要不然也不会一天无所事事了oo&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>人民的名义</title>
+    <link href="http://yoursite.com/2017/05/13/%E4%B9%9F%E8%B0%88%E3%80%8A%E4%BA%BA%E6%B0%91%E7%9A%84%E5%90%8D%E4%B9%89%E3%80%8B/"/>
+    <id>http://yoursite.com/2017/05/13/也谈《人民的名义》/</id>
+    <published>2017-05-13T15:19:42.177Z</published>
+    <updated>2017-05-13T15:45:44.407Z</updated>
+    
+    <content type="html"><![CDATA[<p>人民的名义热播，我看了书和很短的几段电视剧片段，也从几个角色说说自己的看法。</p>
+<h3 id="陆毅"><a href="#陆毅" class="headerlink" title="陆毅"></a>陆毅</h3><p>听周围的同事朋友讨论，基本没有支持男主陆毅的，不知道算不算史上最惨男主。原因么，无非几点：过于完美，貌似没什么缺点；过于正义；获取人生成就的途径过于容易。所以，你凭什么呀？<br>其实书里面写陆毅和祁同伟是同样优秀的，我们反过来想，如果祁同伟拿了一级战斗英雄后，再提拔到陆毅的位置，是不是就不会有问题了？所以这里应该是缺了一笔，至少也要描写一下陆毅也搞了个同级别的奖励，所以升上去了，祁同伟因为被穿小鞋，依然在山沟沟里。这样一对比，电视剧更饱满、也更合理。设计上陆毅的角色应该还是正面的，不是让观众来反对他的，陆毅也不是顺利当上局长的，大家也就不会说“你凭什么呀”。</p>
+<h3 id="祁同伟"><a href="#祁同伟" class="headerlink" title="祁同伟"></a>祁同伟</h3><p>说的人太多，不说了。</p>
+<h3 id="陈海"><a href="#陈海" class="headerlink" title="陈海"></a>陈海</h3><p>据说床戏演的不错。<br>陈海也是个万里挑一的精英，过个马路能被大卡车撞，觉得不太靠谱。当然这属于吹毛求疵了。</p>
+<h3 id="高玉良"><a href="#高玉良" class="headerlink" title="高玉良"></a>高玉良</h3><p>老谋神算、演技杠杠的。<br>应该是典型的政客，我还年轻，我不懂。</p>
+<h3 id="李达康"><a href="#李达康" class="headerlink" title="李达康"></a>李达康</h3><p>我其实对达康书记不太感兴趣，剧照没看出犀利来，小说里为了营造悬疑，把这个人写的有点前后矛盾，人为操纵角色太明显。</p>
+<h3 id="沙瑞金"><a href="#沙瑞金" class="headerlink" title="沙瑞金"></a>沙瑞金</h3><p>最最最想说的其实是这位沙老板。在剧中绝对是正义的化身，没有他，剧中一切的正义都是无根之木。沙老板其实不是一个角色，而是一个符号，代表着正义的符号。</p>
+<p>我想说的是，“正义”其实是比邪恶更可怕的东西。正义是这个世界上最暴力的武器（同级别的还是民主等）。</p>
+<p>一般来说，我们会认为正义永远战胜邪恶，普通人没有能力战胜邪恶，所以总希望出来个正义的、牛逼的人把坏人都打败，比方说孙悟空、蝙蝠侠、奥特曼，现实中则希望出现明君圣主、清官廉吏。</p>
+<p>然而，用什么来制约正义？如果打着正义的旗号去干不好的事情，谁来制约他们？举个很小的例子，几乎每个人应该都被别人以爱的名义关怀过吧？但是不是所有这样的关怀都让你感到舒服呢？</p>
+<p>300多年前，美国的国父们，创立了伟大的美国政治体制和美国宪法，而他们这套体制的精髓，我认为，就是限制正义。用什么限制？答案是程序！</p>
+<p>而我们的沙老板，在剧中是绝对的正义，却很少依程序办事。例如对任用易学习，对信访办窗口的处理，对大风厂员工翻墙的处理，无一不是在滥用权力（对不起，虽然他做的事情正义，但还是在滥用权力），而这种滥用权力，是很难受到约束的，因为他是正义的。</p>
+<p>从逻辑上讲，无非存在三类人：1.完全正义，2.完全错误，3.部分正义部分错误。</p>
+<p>第1类，“沙老板说的对所以要遵照执行”等于“照沙老板说的去做”。假设沙老板最大，他下一级有10个干部，那这10个干部都只需要按沙老板指示做即可。但这10个干部的再下一级干部呢？再下下一级干部呢？这套系统良好运作的话需要层层干部都“完全正义”，至少要绝大多数“完全正义”，这基本是不可能的！</p>
+<p>第2类，“高老板说的不对所以不能遵照执行”等于“不照高老板说的做”。这是第1类的反之情况，最后还是要找到这颗树的一个正义分支，然后让正义分支按第1类进行，非正义分支则腐化丢弃。</p>
+<p>第3类，“如果A老板说的不对，就不能执行，说的对，就应该执行”。还是假设A老板下一级有10个干部，A老板发出指示，5个干部认为正确，5个干部认为不对，此时怎么办？谁来确定当前指示是正义的还是错误的？这套系统即便能正常运行，也需要正义干部的比例很高，同时还会产生严重的内耗。</p>
+<p>那么程序是什么？程序是以一套相对客观的评判标准来进行判定，60分及格，59不及格，即便其中有一道题的答案是错的，但把及格判成不及格的概率很低（具体计算略）。如果发现错题，只需要改一次即可。所谓铁打的试题，流水的学生。比一个学生一套题要轻松的多，也正确的多（试题多了错误毕竟容易多嘛）。</p>
+<p>所以，程序正确比结果正确重要的多，程序正确可以确保总期望值很高，错判误判的几率较低。（我又想说，其实跟炒股道理一样的，哈哈哈哈）</p>
+<p>程序其实就是法律，程序正确其实就是法治。我们成天在喊法治，其实离法治还很远，中华文明发展几千年，法治环境未必有商鞅时候好。</p>
+<p>###题外话<br>1：既然程序正确这么好，是不是所有时候都要依程序办事？<br>2：我们的系统没有依程序办事，不也运行的很好吗？</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;人民的名义热播，我看了书和很短的几段电视剧片段，也从几个角色说说自己的看法。&lt;/p&gt;
+&lt;h3 id=&quot;陆毅&quot;&gt;&lt;a href=&quot;#陆毅&quot; class=&quot;headerlink&quot; title=&quot;陆毅&quot;&gt;&lt;/a&gt;陆毅&lt;/h3&gt;&lt;p&gt;听周围的同事朋友讨论，基本没有支持男主陆毅的，不
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>人生第一辆车的7788（三）</title>
+    <link href="http://yoursite.com/2017/05/12/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E8%BE%86%E8%BD%A6%E7%9A%847788%EF%BC%88%E4%B8%89%EF%BC%89/"/>
+    <id>http://yoursite.com/2017/05/12/人生第一辆车的7788（三）/</id>
+    <published>2017-05-12T15:48:08.628Z</published>
+    <updated>2017-05-12T15:48:13.721Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="订车-买车"><a href="#订车-买车" class="headerlink" title="订车 买车"></a>订车 买车</h3><p>五一确定买车之后，付了2000定金。<br>5.2 一圈团审核，获得验证码<br>5.3 招行贷款申请<br>5.4 贷款审核通过，获得贷款<br>5.6 付首付，填合同，获得汽车使用说明书、保养手册；同日验车，查看车辆出厂日期、车架号、试用基本功能<br>5.12 提车，获得合同、临牌、保险、三包凭证。</p>
+<p>这里要感叹一下，招行贷款审批真的是快，效率超级高！朋友有招行信用卡，贷款审批十几分钟就批好了。这才是一个企业该做的事情，每个细小的点上精益求精，不像某些公司，创新大赛搞了不少，从高层到底层天天喊创新，唯恐创新点子不够大，不够惊天动地，最好是能搞出一个神州11号，嫦娥12号出来才好。<br>某影坛明星曰：只有脚踏实地才能仰望星空，窃以为然。<br>一个大的公司，首先要留住存量用户，再去争取增量用户，因为你存量用户有很多，他们流失率过高的话对整个公司的声誉损失太大，存量都走了，增量就会来吗？就像炒股，用本金损失去驳高收益？本金太大的时候会伤筋动骨的。<br>那么如何留住存量用户？要揣摩他们的痛点、痒点，一点一点去止痛、去挠痒。他腿抽筋了，你说腿不好用了，我们要搞创新，提倡用手走路，增加手的功能，这不搞笑吗？<br>举个例子，有10w用户天天用着他们已经用熟了的系统，你说我给你搞个新系统，这个新系统多牛逼多牛逼，然后逼他们用。殊不知，这10w用户里有9w多每天只用其中三五项功能，新系统一上线，他们懵逼了，我就用三五个功能，你给我整这么多干啥，我不需要！其中1w立马去球了，老子不用了。其中3w用了半天没整明白也去球了，也不用了。剩余5w琢磨了半天弄明白了，然后还是只用其中三五项功能，而刚好又有其中1w觉得自己使用的那三五项功能提升很大，觉得这新系统果然牛逼呀！<br>上述9w大军（剩余那1w时间关系暂不讨论）然后会跟周围的人说，他们会怎么说呢？其中1w可能会说，xxx公司上线了新系统，就是一坨屎。3w可能会说，xxx公司上线的新系统特别难用，用了半年都不习惯。4w可能什么都不会说，或者说，新系统跟老系统差不多吧，有好有坏。最后1w人说，我操，xxx公司的xx系统太牛逼了，厉害厉害！<br>so，结论如何？当然，上例只是假设，没有做过实际调查。leon曰：没有事实基础的理论都是耍流氓！</p>
+<p>那么，既然谈到了创新，创新该如何去搞？国家也在大力提倡创新，政府为创新提供了什么样的土壤？<br>这个问题太大，本人学识浅薄，仅从最直观的感受谈点看法。创新该如何去搞？我觉得可以分为牛人的创新和普通人的创新。<br>先谈牛人的创新，牛人创新，只需要问他需要什么就行了（实际上牛人要的也不多），不要附加任何限制。唯一做的就是去判断这个人是不是牛人，仅此而已。<br>普通人的创新不一样，他可能不知道他要干什么、他需要什么、他要怎么做。因此你给他设了一堆方向、一堆指标、一堆限制，告诉他要突破，要敢于想象。记得有人举过个例子，具体内容忘记了，大概意思就比方说淘宝卖衣服，老板说要提高衣服销量，于是把衣服售价定的很低或者进一批残次品，销量报表相当好看，老板很满意；后来老板看客户投诉率较高，要降低客户投诉率，于是采取各种返现、威逼利诱减少投诉，投诉率报表也很好看，老板很满意；然后老板说我们的衣服利润太低，销量不少、投诉也低，但没挣钱，我们要搞高端产品，于是大搞高端产品，进价5000块的衣服售价也5000，销量很好看，老板很满意。但是淘宝店倒闭了。<br>所以老板看到的创新未必是创新，除非这个老板开了天眼，能看到每一个角落。但大部分人都是普通人，如何开展创新？我觉得是八个字：循序渐进、厚积薄发。你一点一点去了解你的系统、你的app、你的用户、你的客户，在每一个细节上进行微小的变化，去体会这个变化带来的影响，步伐减小，快速迭代。就像炒股，追求长期稳定的收入，而不是暴涨暴跌，判断错误的时候也来得及及时回撤。<br>另一方面，从用户角度看，每一次细小的变化他们都能感受到，他们会感受到你的成长和提高。并且细小的变化更容易接受，增益效果比损益效果大。像炒股，涨了0.1%会觉得很开心，跌了0.1%觉得没啥。反之，跌10%绝对比涨10%的心理刺激大。要是你一次把一半以上的用户都刺激走了，还怎么干？<br>我们需要做的是通过一点一点循序渐进的变化来留住存量用户，然后再去追求增量客户。<br>既然不是牛人，不要轻易谈颠覆，如果实在想谈，先把自己变牛。</p>
+<p>ps1：本来就是想说招行贷款真是快，真是牛逼！但一下子借题发挥了，写到后面发现写不下去了，逻辑上写不通顺了，很多点还是主观，客观的内容相对少。<br>ps2：以后有机会，再专门谈。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;订车-买车&quot;&gt;&lt;a href=&quot;#订车-买车&quot; class=&quot;headerlink&quot; title=&quot;订车 买车&quot;&gt;&lt;/a&gt;订车 买车&lt;/h3&gt;&lt;p&gt;五一确定买车之后，付了2000定金。&lt;br&gt;5.2 一圈团审核，获得验证码&lt;br&gt;5.3 招行贷款申请&lt;br&gt;5.4
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>人生第一辆车的7788（二）</title>
+    <link href="http://yoursite.com/2017/05/11/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E8%BE%86%E8%BD%A6%E7%9A%847788%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
+    <id>http://yoursite.com/2017/05/11/人生第一辆车的7788（二）/</id>
+    <published>2017-05-11T14:52:05.609Z</published>
+    <updated>2017-05-12T13:48:32.117Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="选车"><a href="#选车" class="headerlink" title="选车"></a>选车</h3><p>17年4月，朋友圈发了一条消息，君威优惠促销，6.8折。我掐指一算，加上交行的购车优惠，这优惠力度杠杠的！<br>立即跟4s联系了解情况，去了龙东大道永达4s，打电话咨询了南汇永达4s。优惠如下：</p>
+<blockquote>
+<p>裸车优惠6.8折，1.6t精英原价20.99，优惠完14.2。<br>购置税、保险都是市场价。<br>服务费2000，上牌费1500。<br>贷款手续费2000，首付3w多，月还款约3800左右（记不清了），总共算下来利息约8000左右，贷款期限为1年。<br><strong>重点–&gt;</strong>购车以融资租赁的方式进行，即车的第一年是挂在永达租赁公司名下，一年期满了后再过户到我名下。<strong>这里是一个大坑</strong>，其一：挂在租赁公司名下再过户就相当于二手车，到时候我再卖就是三手车了，其二：挂过租赁公司的车残值特别低；其三：租赁公司买车是不付购置税的，但却要跟客户收这份钱。</p>
+</blockquote>
+<p>期间有同事去咨询御桥4s店，过程不表，最终谈下来除保险外的落地价17.35w。<br>后又去雅阁和CRV试驾和询价，优惠力度太低，约2.1和2.3左右。<br>最终在浦建路4s店，谈下来走交行的购车优惠价，最终价目如下：</p>
+<blockquote>
+<p>裸车，15.27w<br>上牌费+贷款手续费 3500，比御桥便宜了4000左右<br>购置税、保险  实报实销</p>
+</blockquote>
+<p>这优惠力度算相当不错了，在金钱面前，B级车内部空间最小这个缺点已经被我无情地忽略了。跟lp商量后，决定下单。</p>
+<p>5/11/2017 10:51:55 PM </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;选车&quot;&gt;&lt;a href=&quot;#选车&quot; class=&quot;headerlink&quot; title=&quot;选车&quot;&gt;&lt;/a&gt;选车&lt;/h3&gt;&lt;p&gt;17年4月，朋友圈发了一条消息，君威优惠促销，6.8折。我掐指一算，加上交行的购车优惠，这优惠力度杠杠的！&lt;br&gt;立即跟4s联系了解情况，去
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo主题配置</title>
+    <link href="http://yoursite.com/2017/05/10/Hexo%E9%85%8D%E7%BD%AE%E4%B8%BB%E9%A2%98/"/>
+    <id>http://yoursite.com/2017/05/10/Hexo配置主题/</id>
+    <published>2017-05-10T13:48:23.322Z</published>
+    <updated>2017-05-10T15:00:05.002Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Hexo主题存放路径"><a href="#Hexo主题存放路径" class="headerlink" title="Hexo主题存放路径"></a>Hexo主题存放路径</h3><pre><code>~/hexo/themes/
+</code></pre><h3 id="主题配置步骤"><a href="#主题配置步骤" class="headerlink" title="主题配置步骤"></a>主题配置步骤</h3><ol><br><li>下载主题，进入hexo目录下，用git bash执行（最后一个参数为路径名）：<br>    git clone <a href="https://github.com/iissnan/hexo-theme-next" target="_blank" rel="external">https://github.com/iissnan/hexo-theme-next</a> themes/next<br></li><br><li>启用主题，修改hexo的配置文件_config.yml，将theme设置为next</li><br><li>测试、发布</li><br></ol>
+
+<h3 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h3><ol><br><li>主题修改后发布成功，但网站上没更新。<br>    <em>查看是否浏览器缓存没清空。</em></li><br></ol>
+
+<p>5/10/2017 9:48:04 PM </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;Hexo主题存放路径&quot;&gt;&lt;a href=&quot;#Hexo主题存放路径&quot; class=&quot;headerlink&quot; title=&quot;Hexo主题存放路径&quot;&gt;&lt;/a&gt;Hexo主题存放路径&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;~/hexo/themes/
+&lt;/code&gt;&lt;/pre&gt;&lt;h
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>人生第一辆车的7788（一）</title>
+    <link href="http://yoursite.com/2017/05/08/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E8%BE%86%E8%BD%A6%E7%9A%847788%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://yoursite.com/2017/05/08/人生第一辆车的7788（一）/</id>
+    <published>2017-05-08T14:48:46.131Z</published>
+    <updated>2017-05-11T14:52:34.619Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><p>2016年初开始计划买车，预算15~20w裸车价。</p>
+<h3 id="拍牌"><a href="#拍牌" class="headerlink" title="拍牌"></a>拍牌</h3><p>2016.4月开始拍牌，历经12个月，风雨无阻一次不漏地拍，最终还是没中。。。<br>2017.5月休战一月，6月继续，fighting！</p>
+<h3 id="看车"><a href="#看车" class="headerlink" title="看车"></a>看车</h3><p>16年大约8、9月份开始看车，跟老婆大人逛了龙东大道4s店片区、御桥4s店片区、浦西真南路、祁连山南路4s店片区，等等。看了宝马、奥迪、雷克萨斯、别克、雪佛兰、广本、东本、丰田、大众、日产、标志、DS、沃尔沃……最后看中了宝马X6！（别拦我，让我再装一会儿13）<br><br></p>
+<p>长话短说，最终过滤名单（顺序不分先后）：</p>
+<ol><br><li>逍客：外形可接受，配置可接受，内饰无爱（尤其是蹲坑式液晶显示屏），无试驾。pass</li><br><li>雅阁：外形喜欢，配置可接受，内饰简单但尚可接受，内部乘坐空间大，试驾混动版（17年五一）效果不错。候选</li><br><li>DS：天天坐H总的车，感觉车内空间和君威差不多，动力还可以，外形不错，但对DS无爱。pass</li><br><li>CRV：和雅阁类似，就是一个是B级车，一个是SUV而已，17年五一试驾2.4版，动力足，驾驶感不错，乘坐感一般。候选</li><br><li>宝马：看宝马咱只看最贵的，买宝马咱可以先买个车模^^</li><br><li>奥迪：同上</li><br><li>雷克萨斯：青蛙大眼睛，感觉要跳起来。。。</li><br><li>君威：B级车里内部空间最小，内饰比雅阁豪华。</li><br><li>君越：比君威好</li><br><li>昂科拉：小，便宜</li><br><li>昂科威：大，内饰较豪华</li><br><li>迈锐宝：丑</li><br><li>迈锐宝XL：侧面和后面相当帅，前脸很小器。内部空间够大。</li><br><li>科帕奇：油耗高，残值低，空间大。</li><br><li>丰田：老婆黄粱一梦，从此告别丰田</li><br><li>途观：前排空间感觉比较压抑</li><br><li>帕萨特：销量第一不是盖的，内饰豪华，空间大</li><br><li>明锐：低一档，不过车不错</li><br><li>标志：设计不喜欢</li><br></ol>
+
+<p>看着看着最后决定在雅阁和CRV里选，万事俱备只欠东风，奈何拍不中。。。<br>看车暂告一段落，专心拍牌。</p>
+<p>5/8/2017 10:49:11 PM </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;计划&quot;&gt;&lt;a href=&quot;#计划&quot; class=&quot;headerlink&quot; title=&quot;计划&quot;&gt;&lt;/a&gt;计划&lt;/h3&gt;&lt;p&gt;2016年初开始计划买车，预算15~20w裸车价。&lt;/p&gt;
+&lt;h3 id=&quot;拍牌&quot;&gt;&lt;a href=&quot;#拍牌&quot; class=&quot;headerl
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>win7环境下用github和hexo搭建静态博客</title>
+    <link href="http://yoursite.com/2017/05/07/win7%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%94%A8github%E5%92%8Chexo%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2017/05/07/win7环境下用github和hexo搭建静态博客/</id>
+    <published>2017-05-07T14:06:28.918Z</published>
+    <updated>2017-05-10T13:56:42.568Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>这是我的第一篇Hexo博客文章。</p>
+</blockquote>
+<p>今天研究了在windows环境下用Github和hexo搭建静态博客，也是第一次正式使用github.<br><br><br>使用Github和Hexo搭建静态博客相当简单，网上有大量教程，照着一步步做即可。详细步骤不再赘述了，这里把使用心得说一下。</p>
+<p>###Git和Hexo环境搭建<br>Git为github所用的分布式管理系统，类似svn工具。<br>Hexo为静态博客生成器，用node.js开发。<br>环境搭建需要的工作有：</p>
+<ol><br><li>安装上述工具，git，node.js，hexo。</li><br><li>注册github用户；</li><br><li>生成并增加ssh key，ssh key用于通过ssh向github仓库更新版本时使用。我的理解是ssh key是公钥，因为ssh是加密传输的，github用的是rsa加密算法，因此生成一个公钥来确保加密。</li><br><li>hexo安装、初始化、部署。hexo可以在本地起服务测试。</li><br><li>注册github repository</li><br><li>将本地hexo项目托管到github。在_config.yml下配置仓库地址等信息，安装hexo-deployer-git插件。</li><br><li>部署本地主题到github上。</li><br><li>更新内容后重新发布</li><br></ol>
+
+<p>###发布博文</p>
+<ol>用markdown编辑博文，生成md文件，放入_posts目录下，然后发布。这里发布成功了，但是markdown的“###”格式hexo不认(本地和服务器上均不认)，原因待确认。</ol>
+
+
+<p>5/7/2017 10:21:16 PM </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;这是我的第一篇Hexo博客文章。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;今天研究了在windows环境下用Github和hexo搭建静态博客，也是第一次正式使用github.&lt;br&gt;&lt;br&gt;&lt;br&gt;使用Github和Hexo搭建静态博客相当简单
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/05/07/hello-world/"/>
+    <id>http://yoursite.com/2017/05/07/hello-world/</id>
+    <published>2017-05-07T11:09:57.929Z</published>
+    <updated>2017-05-07T11:09:57.929Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
