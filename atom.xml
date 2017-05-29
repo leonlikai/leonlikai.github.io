@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-22T13:31:18.351Z</updated>
+  <updated>2017-05-29T13:37:47.147Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,48 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>高效学习</title>
+    <link href="http://yoursite.com/2017/05/29/%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://yoursite.com/2017/05/29/高效学习/</id>
+    <published>2017-05-29T13:15:20.000Z</published>
+    <updated>2017-05-29T13:37:47.147Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="整体性学习策略"><a href="#整体性学习策略" class="headerlink" title="整体性学习策略"></a>整体性学习策略</h2><p><ol color="red">结构</ol><br>所学知识的内部结构，各知识点以网状形式关联起来，形成知识结构。</p>
+<p><ol>模型</ol><br>将类似结构抽象出来形成模型，再以模型去套用类似知识，便于快速学习。</p>
+<p><ol>高速公路</ol><br>不同知识结构间的连接，达到触类旁通的效果。</p>
+<h2 id="整体性学习顺序"><a href="#整体性学习顺序" class="headerlink" title="整体性学习顺序"></a>整体性学习顺序</h2><ul>
+<li>知识获取</li>
+<li>知识理解</li>
+<li>知识拓展</li>
+<li>知识纠错</li>
+<li>知识应用</li>
+<li>测试</li>
+</ul>
+<h2 id="整体性学习技术"><a href="#整体性学习技术" class="headerlink" title="整体性学习技术"></a>整体性学习技术</h2><p>包括快速阅读、笔记流等等。</p>
+<h2 id="整体性学习技术的实际应用-费曼技巧"><a href="#整体性学习技术的实际应用-费曼技巧" class="headerlink" title="整体性学习技术的实际应用 - 费曼技巧"></a>整体性学习技术的实际应用 - 费曼技巧</h2><p>把所学知识讲给完全不懂的人听，让他明白。</p>
+<h2 id="更高层次的心法"><a href="#更高层次的心法" class="headerlink" title="更高层次的心法"></a>更高层次的心法</h2><ul>
+<li>能量管理（运动-补充体能、充足睡眠、良好的习惯-减少能量损耗）</li>
+<li>不要“学习”（要具体，比如完成什么事情，而不是笼统地说“学习”）</li>
+<li>绝不拖延（规定时间做规定事情）</li>
+<li>批处理（杂事统一处理）</li>
+<li>有组织地做事（例：计划、执行、总结）</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      高效学习的方法
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>图片测试</title>
