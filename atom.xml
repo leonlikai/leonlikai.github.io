@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-29T13:37:47.147Z</updated>
+  <updated>2017-05-29T15:10:25.501Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,45 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>端午</title>
+    <link href="http://yoursite.com/2017/05/29/%E7%AB%AF%E5%8D%88%E8%8A%82/"/>
+    <id>http://yoursite.com/2017/05/29/端午节/</id>
+    <published>2017-05-29T13:50:51.000Z</published>
+    <updated>2017-05-29T15:10:25.501Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="端午节名称"><a href="#端午节名称" class="headerlink" title="端午节名称"></a>端午节名称</h2><p>古语中，端是初的意思，午与五同义，五为阳数（奇数为阳数），因此端午即初五，端午节又叫端阳节。</p>
+<h2 id="端午节的来历"><a href="#端午节的来历" class="headerlink" title="端午节的来历"></a>端午节的来历</h2><ol><br><li>屈原投江说</li><br><li>纪念介子推说</li><br><li>伍子胥死谏吴王夫差说</li><br><li>曹娥投江寻父说</li><br></ol>
+
+<h2 id="端午节活动"><a href="#端午节活动" class="headerlink" title="端午节活动"></a>端午节活动</h2><ul>
+<li>赛龙舟</li>
+<li>包粽子</li>
+<li>栓五色丝线、挂荷包、佩香囊</li>
+<li>喝雄黄酒</li>
+<li>挂菖蒲、蒿草、艾叶等</li>
+</ul>
+<h2 id="端午节祝福语"><a href="#端午节祝福语" class="headerlink" title="端午节祝福语"></a>端午节祝福语</h2><p>端午节祝福语用安康，从端午节的来历看，基本上都是死人的事，从端午节活动上来看，挂五色丝线、喝雄黄酒、挂艾草等都是为了驱害虫，因此，端午是一个凶日，至少不是喜庆的节日。<br>端午节带着一种期盼生活安康的意愿，因此，端午祝福语用安康最合适不过了。</p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>闻一多：《神话与诗-端午考》</p>
+]]></content>
+    
+    <summary type="html">
+    
+      端午节
+    
+    </summary>
+    
+      <category term="读书" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>高效学习</title>
     <link href="http://yoursite.com/2017/05/29/%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0/"/>
     <id>http://yoursite.com/2017/05/29/高效学习/</id>
     <published>2017-05-29T13:15:20.000Z</published>
-    <updated>2017-05-29T13:37:47.147Z</updated>
+    <updated>2017-05-29T15:06:01.020Z</updated>
     
     <content type="html"><![CDATA[<h2 id="整体性学习策略"><a href="#整体性学习策略" class="headerlink" title="整体性学习策略"></a>整体性学习策略</h2><p><ol color="red">结构</ol><br>所学知识的内部结构，各知识点以网状形式关联起来，形成知识结构。</p>
 <p><ol>模型</ol><br>将类似结构抽象出来形成模型，再以模型去套用类似知识，便于快速学习。</p>
@@ -50,7 +84,7 @@
     
     </summary>
     
-      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="读书" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6/"/>
     
     
       <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
